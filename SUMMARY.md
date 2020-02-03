@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
+* [Installing Hyperledger Besu on Linux](installing-hyperledger-besu-on-linux.md)
 
