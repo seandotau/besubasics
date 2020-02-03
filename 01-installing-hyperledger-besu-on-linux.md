@@ -1,4 +1,4 @@
-# 02 Installing Hyperledger Besu on Linux1
+# 01 Installing Hyperledger Besu on Linux1
 
 ## Introduction
 
