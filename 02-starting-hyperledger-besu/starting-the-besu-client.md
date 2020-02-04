@@ -14,3 +14,9 @@ but it is important to understand what is happening in the background. This comm
 
 Two other files, key and DATABASE\_METADATA.json can also be seen. 
 
+{% hint style="info" %}
+To run the ./besu only, you will have to already be in the Besu/besu-1.3.8/bin folder. Otherwise you will have to explicitly state the full path of the besu executable. eg ./Besu/besu-1.3.8/bin/besu
+
+This will be important for the remainder of this book.
+{% endhint %}
+
