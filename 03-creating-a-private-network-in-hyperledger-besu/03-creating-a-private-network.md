@@ -1,4 +1,4 @@
-# 03 Creating a private network with Docker
+# Docker
 
 In this section, we will demonstrate how to set up a private Hyperledger Besu network using Docker. Docker is a tool designed to make it easier to create, deploy, and run applications by using a concept  called containers. The friendly team at PegaSys Engineering have pre-created a Besu Docker container to enable anyone to create a private network very quickly.
 
@@ -76,5 +76,5 @@ Now executing
 
 should yield the following successful output.
 
-![](.gitbook/assets/besu-quickstart.png)
+![](../.gitbook/assets/besu-quickstart.png)
 

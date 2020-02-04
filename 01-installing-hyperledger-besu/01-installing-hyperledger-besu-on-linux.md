@@ -1,4 +1,4 @@
-# 01 Installing Hyperledger Besu on Linux
+# Linux
 
 ## Introduction
 
@@ -16,7 +16,7 @@ In VirtualBox under Devices, select "Insert Guest Additions CD image..." as well
 Ensure at least 4Gb of memory is allocated to the VirtualBox machine and increase the video memory to maximum and enable 3D acceleration to increase performance.
 {% endhint %}
 
-![Increase performance with 128Mb of video memory and enabled 3D acceleration.](.gitbook/assets/screen-shot-2020-02-03-at-2.57.50-pm.png)
+![Increase performance with 128Mb of video memory and enabled 3D acceleration.](../.gitbook/assets/screen-shot-2020-02-03-at-2.57.50-pm.png)
 
 ### Download Ubuntu
 
@@ -43,7 +43,7 @@ Extract the file and then navigate into the bin folder and test the Besu version
 
 ### Error
 
-At this point, an error should occur.
+At this point, you may get the following error.
 
 ```bash
 ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
