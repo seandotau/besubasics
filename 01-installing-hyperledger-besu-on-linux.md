@@ -1,4 +1,4 @@
-# 02 Installing Hyperledger Besu on Linux1
+# 01 Installing Hyperledger Besu on Linux
 
 ## Introduction
 
@@ -9,7 +9,7 @@ This section will describe how to install Ubuntu on Virtual Box for those who do
 Download VirtualBox for your operating system at [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) and follow the [documentation](https://www.virtualbox.org/wiki/End-user_documentation) if you get stuck.
 
 {% hint style="info" %}
-In VirtualBox under Devices, select "Insert Guest Additions CD image..." as well as "Shared Clipboard" &gt; Bidirectional to allow copying and pasting into and out off VirtualBox. Remember to restart VirtualBox machine for the settings to take effect.
+In VirtualBox under Devices, select "Insert Guest Additions CD image..." as well as "Shared Clipboard" &gt; Bidirectional to allow copying and pasting into and out off VirtualBox. Remember to restart VirtualBox machine for the settings to take effect. If you install the Guest Addition only, you'll see the paste option but when you click it, nothing will be pasted because the clipboard is not shared.
 {% endhint %}
 
 {% hint style="info" %}
